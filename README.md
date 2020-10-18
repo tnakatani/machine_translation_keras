@@ -1,6 +1,7 @@
 # Personal Notes
 
-- Note: This project was completed as part 1 of the Udacity NLP course.
+_Note: This project was completed as part 2 of the Udacity NLP course._
+
 - The Jupyter notebook was run on the Udacity workspace with GPU mode enabled.
 - Module versions were as follows
 ```
