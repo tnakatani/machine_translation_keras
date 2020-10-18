@@ -1,5 +1,7 @@
 # Personal Notes
-- The code was written and run on the Udacity workspace with GPU mode enabled.
+
+- Note: This project was completed as part 1 of the Udacity NLP course.
+- The Jupyter notebook was run on the Udacity workspace with GPU mode enabled.
 - Module versions were as follows
 ```
 python:     3.6.3
